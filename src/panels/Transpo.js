@@ -8,6 +8,6 @@ function Transpo(props) {
     for(let i=0;i<texta.length;i++){
         texta[i]=slovar[texta[i]];
     }
-    return <h1>{texta}</h1>;
+    return <h1>{texta.join('')}</h1>;
 }
 export default Transpo;

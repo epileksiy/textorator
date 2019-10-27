@@ -10,7 +10,7 @@
 
 .up{
     position: relative;
-    top:10vh;
+    top:20vh;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -51,8 +51,17 @@
 }
 .panel{
     height: 100vh;
+    width: 100vw;
     background-color: white;
-    background: url("https://data.whicdn.com/images/227870020/original.jpg")center center;
+    background: url("https://data.whicdn.com/images/227870020/original.jpg");
+    background-repeat: repeat;
     background-size: contain;
 
+}
+.fix {
+    position: absolute;
+    bottom: 48px;
+}
+.bta{
+    margin-bottom: 50px;
 }

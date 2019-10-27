@@ -37,6 +37,7 @@ class Textorator extends React.Component {
         var isclick = this.state.isclicked;
         var text=this.state.value;
         return (
+            <div className='fix'>
             <div className='panel'>
                 <div className='up'>
                     <div className="gif">
@@ -54,6 +55,7 @@ class Textorator extends React.Component {
                     </FormLayout>
                     <Windowtxt text={text} isclicked={isclick}/>
                 </div>
+            </div>
             </div>
 
         )
