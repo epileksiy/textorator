@@ -1,0 +1,58 @@
+.FormLayout--android{
+    width:80%;
+    max-width: 1000px;
+}
+
+.FormLayout--ios{
+    width:80%;
+    max-width: 1000px;
+}
+
+.up{
+    position: relative;
+    top:10vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.textarea{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.board{
+    display: flex;
+    justify-content: center;
+
+}
+.board p{
+    text-align: center;
+    font-family: 'Monoton', cursive;
+    font-size: 30px;
+    background-color: black;
+    word-spacing: 10px;
+    margin-bottom: 10px;
+}
+
+.but{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+
+}
+.but Button{
+    width:100%;
+    max-width: 500px;
+}
+.gif{
+    width: 375px;
+    background: url("https://png2.cleanpng.com/sh/b6005d162991d745e6d2f4116ca496aa/L0KzQYm3WcI5N6pxeZH0aYP2gLBuTgdpcaVqRdp4dYPoPbF5hBFvcatmjNt4bj3mf773gf56NadufNd4LXLvf7F0gvVzb15sed94bImwcsPwjvdqdpgykdHALXPvf8Tskr11d155gNc2YnX2hH79hf52baQyjNG2NXLkdbOCU8hlOpU3T6c3M0W3QIWAVsIyPWQ9SakCM0O5SIe6Vb5xdpg=/kisspng-white-house-organization-company-video-bloomberg-gamoly-bringing-you-closer-to-the-best-venues-to-5baeb938d2d275.3540476215381773368635.png") center center no-repeat;
+    background-size: 340px 90px;
+}
+.panel{
+    height: 100vh;
+    background-color: white;
+    background: url("https://data.whicdn.com/images/227870020/original.jpg")center center;
+    background-size: contain;
+
+}
