@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/textorator/static/css/main.5f40e967.chunk.css",
+    "main.css": "/textorator/static/css/main.ff36a051.chunk.css",
     "main.js": "/textorator/static/js/main.52ae7408.chunk.js",
     "main.js.map": "/textorator/static/js/main.52ae7408.chunk.js.map",
     "runtime-main.js": "/textorator/static/js/runtime-main.83e9ca60.js",
@@ -9,9 +9,9 @@
     "static/js/2.10f262cc.chunk.js": "/textorator/static/js/2.10f262cc.chunk.js",
     "static/js/2.10f262cc.chunk.js.map": "/textorator/static/js/2.10f262cc.chunk.js.map",
     "index.html": "/textorator/index.html",
-    "precache-manifest.508f0cb306870cde3d181bbaaeea0927.js": "/textorator/precache-manifest.508f0cb306870cde3d181bbaaeea0927.js",
+    "precache-manifest.2ef92b2ee3273d2172aa7bb85c1619d6.js": "/textorator/precache-manifest.2ef92b2ee3273d2172aa7bb85c1619d6.js",
     "service-worker.js": "/textorator/service-worker.js",
     "static/css/2.4e89ce74.chunk.css.map": "/textorator/static/css/2.4e89ce74.chunk.css.map",
-    "static/css/main.5f40e967.chunk.css.map": "/textorator/static/css/main.5f40e967.chunk.css.map"
+    "static/css/main.ff36a051.chunk.css.map": "/textorator/static/css/main.ff36a051.chunk.css.map"
   }
 }
