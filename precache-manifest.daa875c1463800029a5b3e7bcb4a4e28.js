@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "581b56a106df6c65f1f1cbbdef8b35f3",
+    "revision": "2bdeb572fc1723d996077722cdac93d6",
     "url": "/textorator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/textorator/static/css/2.4e89ce74.chunk.css"
   },
   {
-    "revision": "f318b77b0a4aa96b17dc",
+    "revision": "1a4852298e5109e8059d",
     "url": "/textorator/static/css/main.ff36a051.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/textorator/static/js/2.10f262cc.chunk.js"
   },
   {
-    "revision": "f318b77b0a4aa96b17dc",
-    "url": "/textorator/static/js/main.52ae7408.chunk.js"
+    "revision": "1a4852298e5109e8059d",
+    "url": "/textorator/static/js/main.323c5c3d.chunk.js"
   },
   {
     "revision": "bf2b62ac1ff22bef8263",
