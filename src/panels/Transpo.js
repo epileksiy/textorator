@@ -6,7 +6,9 @@ function Transpo(props) {
     const text=props.text;
     const texta=text.split('');
     for(let i=0;i<texta.length;i++){
-        texta[i]=slovar[texta[i]];
+        if(texta[i] in slovar) {
+            texta[i] = slovar[texta[i]];
+        }
     }
     return <h1>{texta.join('')}</h1>;
 }
