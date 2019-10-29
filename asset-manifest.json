@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/textorator/static/css/main.e0bdc9b3.chunk.css",
-    "main.js": "/textorator/static/js/main.50f453aa.chunk.js",
-    "main.js.map": "/textorator/static/js/main.50f453aa.chunk.js.map",
+    "main.js": "/textorator/static/js/main.6b22cde7.chunk.js",
+    "main.js.map": "/textorator/static/js/main.6b22cde7.chunk.js.map",
     "runtime-main.js": "/textorator/static/js/runtime-main.83e9ca60.js",
     "runtime-main.js.map": "/textorator/static/js/runtime-main.83e9ca60.js.map",
     "static/css/2.4e89ce74.chunk.css": "/textorator/static/css/2.4e89ce74.chunk.css",
     "static/js/2.d9c79452.chunk.js": "/textorator/static/js/2.d9c79452.chunk.js",
     "static/js/2.d9c79452.chunk.js.map": "/textorator/static/js/2.d9c79452.chunk.js.map",
     "index.html": "/textorator/index.html",
-    "precache-manifest.4aecde92592b5045918207e15470520c.js": "/textorator/precache-manifest.4aecde92592b5045918207e15470520c.js",
+    "precache-manifest.1b8a07e35e7831ba81d282fe377184ac.js": "/textorator/precache-manifest.1b8a07e35e7831ba81d282fe377184ac.js",
     "service-worker.js": "/textorator/service-worker.js",
     "static/css/2.4e89ce74.chunk.css.map": "/textorator/static/css/2.4e89ce74.chunk.css.map",
     "static/css/main.e0bdc9b3.chunk.css.map": "/textorator/static/css/main.e0bdc9b3.chunk.css.map"
