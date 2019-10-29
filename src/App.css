@@ -44,9 +44,12 @@
     width:100%;
     max-width: 500px;
 }
+.select{
+    width:30%;
+}
 .gif{
     width: 375px;
-    background: url("https://png2.cleanpng.com/sh/b6005d162991d745e6d2f4116ca496aa/L0KzQYm3WcI5N6pxeZH0aYP2gLBuTgdpcaVqRdp4dYPoPbF5hBFvcatmjNt4bj3mf773gf56NadufNd4LXLvf7F0gvVzb15sed94bImwcsPwjvdqdpgykdHALXPvf8Tskr11d155gNc2YnX2hH79hf52baQyjNG2NXLkdbOCU8hlOpU3T6c3M0W3QIWAVsIyPWQ9SakCM0O5SIe6Vb5xdpg=/kisspng-white-house-organization-company-video-bloomberg-gamoly-bringing-you-closer-to-the-best-venues-to-5baeb938d2d275.3540476215381773368635.png") center center no-repeat;
+    background: url("http://i.yapx.ru/Fgu2J.png") center center no-repeat;
     background-size: 340px 90px;
 }
 .panel{

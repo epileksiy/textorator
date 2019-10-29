@@ -1,11 +1,12 @@
 import React from 'react';
 //import connect from '@vkontakte/vk-connect';
 import './App.css';
-import Icon28Newsfeed from '@vkontakte/icons/dist/28/newsfeed';
-import Icon28Search from '@vkontakte/icons/dist/28/search';
+import Icon28KeyboardOutline from '@vkontakte/icons/dist/28/keyboard_outline';
+import Icon28InfoOutline from '@vkontakte/icons/dist/28/info_outline';
 import {View,Epic,Tabbar,TabbarItem,Panel,PanelHeader} from '@vkontakte/vkui/dist';
 import '@vkontakte/vkui/dist/vkui.css';
 import Textorator from "./panels/panelTextorator";
+import Aboutpanel from "./panels/Aboutpanel";
 
 class App extends React.Component {
 	constructor (props) {
@@ -41,25 +42,26 @@ class App extends React.Component {
 						onClick={this.onStoryChange}
 						selected={this.state.activeStory === 'textorator'}
 						data-story="textorator"
-					><Icon28Newsfeed/>
+					><Icon28KeyboardOutline/>
 					</TabbarItem>
-					<TabbarItem
-						onClick={this.onStoryChange}
-						selected={this.state.activeStory === 'about'}
-						data-story="about"
-					><Icon28Search/></TabbarItem>
+						<TabbarItem
+							onClick={this.onStoryChange}
+							selected={this.state.activeStory === 'about'}
+							data-story="about"
+						><Icon28InfoOutline/></TabbarItem>
 				</Tabbar>
 			}>
 				<View id="textorator" activePanel="textorator">
 					<Panel id="textorator">
-						<PanelHeader>Do `dat shit</PanelHeader>
+						<PanelHeader>Textorator</PanelHeader>
 						<Textorator isclicked={this.state.isclicked} />
 					</Panel>
 				</View>
 
 				<View id="about" activePanel="about">
 					<Panel id="about">
-						<PanelHeader>О приложении</PanelHeader>
+						<PanelHeader>О сервисе</PanelHeader>
+						<Aboutpanel/>
 					</Panel>
 				</View>
 			</Epic>
