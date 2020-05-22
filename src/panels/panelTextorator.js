@@ -17,7 +17,6 @@ class Textorator extends React.Component {
         this.handleChange = this.handleChange.bind(this);
         this.handleSubmit = this.handleSubmit.bind(this);
     }
-
     cClicked() {
         if (this.state.isclicked === false) {
             this.setState({isclicked: true});
@@ -26,6 +25,7 @@ class Textorator extends React.Component {
 
     handleChange(event) {
         this.setState({mode: event.target.value});
+        console.log(event.target.value)
     }
 
     handleSubmit(event) {
@@ -34,11 +34,11 @@ class Textorator extends React.Component {
         this.setState({value: a});
     }
 
-
     render() {
         var isclick = this.state.isclicked;
         var text=this.state.value;
         var mode=this.state.mode;
+
         return (
             <div className='fix'>
             <div className='panel'>
@@ -49,7 +49,7 @@ class Textorator extends React.Component {
                     <FormLayout onSubmit={this.handleSubmit}>
                         <div className="textarea">
                             {/*value={this.state.value} onChange={this.handleChange}*/}
-                            <Textarea spellCheck="false" id="textarea"></Textarea>
+                            <Textarea spellCheck="false" id="textarea" placeholder="Введите текст и выберите стиль."></Textarea>
                         </div>
                     <div className="but">
                         <Button type="submit" size="xl" style={{backgroundColor: 'white'}} onClick={this.cClicked}>tEXtoratE</Button>
@@ -57,6 +57,9 @@ class Textorator extends React.Component {
                     </FormLayout>
                     <Select placeholder="Выберите стиль" onChange={this.handleChange}>
                         <option value="g">𝖌𝖍𝖙𝖔𝖙𝖎𝖈</option>
+                        <option value="o">𝕠𝕦𝕥𝕝𝕚𝕟𝕖</option>
+                        <option value="h">𝓱𝓪𝓷𝓭𝔀𝓻𝓲𝓽𝓲𝓷𝓰</option>
+                        <option value="ci">ⓒⓘⓡⓒⓛⓔⓓ</option>
                     </Select>
                     <Windowtxt mode={mode} text={text} isclicked={isclick}/>
                 </div>
