@@ -1,5 +1,5 @@
 import React from 'react';
-import {Group,List,Cell,Div} from "@vkontakte/vkui";
+import {Group,List,Cell,Div, Footer,Link} from "@vkontakte/vkui";
 
 function Aboutpanel(){
     return(
@@ -22,8 +22,12 @@ function Aboutpanel(){
                     <Cell>
                         𝓱𝓪𝓷𝓭𝔀𝓻𝓲𝓽𝓲𝓷𝓰
                     </Cell>
+                    <Cell>
+                        ⓒⓘⓡⓒⓛⓔⓓ
+                    </Cell>
                 </List>
             </Group>
+            <Footer>Создатель - <Link href="vk.com/kotcovalexey" target="_blank">epileksiy</Link></Footer>
         </div>
     )
 }

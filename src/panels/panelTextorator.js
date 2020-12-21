@@ -25,7 +25,6 @@ class Textorator extends React.Component {
 
     handleChange(event) {
         this.setState({mode: event.target.value});
-        console.log(event.target.value)
     }
 
     handleSubmit(event) {
@@ -59,7 +58,7 @@ class Textorator extends React.Component {
                         <option value="g">𝖌𝖍𝖙𝖔𝖙𝖎𝖈</option>
                         <option value="o">𝕠𝕦𝕥𝕝𝕚𝕟𝕖</option>
                         <option value="h">𝓱𝓪𝓷𝓭𝔀𝓻𝓲𝓽𝓲𝓷𝓰</option>
-                        <option value="ci">ⓒⓘⓡⓒⓛⓔⓓ</option>
+                        <option value="c">ⓒⓘⓡⓒⓛⓔⓓ</option>
                     </Select>
                     <Windowtxt mode={mode} text={text} isclicked={isclick}/>
                 </div>
