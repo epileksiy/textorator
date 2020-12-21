@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/textorator/static/css/main.e0bdc9b3.chunk.css",
-    "main.js": "/textorator/static/js/main.d466fb17.chunk.js",
-    "main.js.map": "/textorator/static/js/main.d466fb17.chunk.js.map",
-    "runtime-main.js": "/textorator/static/js/runtime-main.83e9ca60.js",
-    "runtime-main.js.map": "/textorator/static/js/runtime-main.83e9ca60.js.map",
-    "static/css/2.4e89ce74.chunk.css": "/textorator/static/css/2.4e89ce74.chunk.css",
-    "static/js/2.d9c79452.chunk.js": "/textorator/static/js/2.d9c79452.chunk.js",
-    "static/js/2.d9c79452.chunk.js.map": "/textorator/static/js/2.d9c79452.chunk.js.map",
+    "main.css": "/textorator/static/css/main.820b3261.chunk.css",
+    "main.js": "/textorator/static/js/main.226a8000.chunk.js",
+    "main.js.map": "/textorator/static/js/main.226a8000.chunk.js.map",
+    "runtime-main.js": "/textorator/static/js/runtime-main.32de8546.js",
+    "runtime-main.js.map": "/textorator/static/js/runtime-main.32de8546.js.map",
+    "static/css/2.2cfa1b23.chunk.css": "/textorator/static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.bc493aaf.chunk.js": "/textorator/static/js/2.bc493aaf.chunk.js",
+    "static/js/2.bc493aaf.chunk.js.map": "/textorator/static/js/2.bc493aaf.chunk.js.map",
     "index.html": "/textorator/index.html",
-    "precache-manifest.8704e3993c7fb2c3b544877f19f01e70.js": "/textorator/precache-manifest.8704e3993c7fb2c3b544877f19f01e70.js",
+    "precache-manifest.72a017d2ddfa41deae078a4495ae3ad7.js": "/textorator/precache-manifest.72a017d2ddfa41deae078a4495ae3ad7.js",
     "service-worker.js": "/textorator/service-worker.js",
-    "static/css/2.4e89ce74.chunk.css.map": "/textorator/static/css/2.4e89ce74.chunk.css.map",
-    "static/css/main.e0bdc9b3.chunk.css.map": "/textorator/static/css/main.e0bdc9b3.chunk.css.map"
-  }
+    "static/css/2.2cfa1b23.chunk.css.map": "/textorator/static/css/2.2cfa1b23.chunk.css.map",
+    "static/css/main.820b3261.chunk.css.map": "/textorator/static/css/main.820b3261.chunk.css.map",
+    "static/js/2.bc493aaf.chunk.js.LICENSE.txt": "/textorator/static/js/2.bc493aaf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32de8546.js",
+    "static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.bc493aaf.chunk.js",
+    "static/css/main.820b3261.chunk.css",
+    "static/js/main.226a8000.chunk.js"
+  ]
 }
