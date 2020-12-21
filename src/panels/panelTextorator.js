@@ -65,6 +65,10 @@ class Textorator extends React.Component {
                         <option value="st">ｓ☆ｔ☆ａ☆ｒ☆ｓ☆</option>
                         <option value="b">[̲̅b][̲̅o][̲̅x][̲̅e][̲̅d]</option>
                         <option value="1337">l337</option>
+                        <option value="bbl">🅑🅤🅑🅑🅛🅔</option>
+                        <option value="gay">𝓰♡°𝙖♡°𝔂♡°</option>
+                        <option value="jap">丂卂ズㄩ尺卂</option>
+                        <option value="bld">𝐛𝐨𝐥𝐝</option>
                     </Select>
                     <Windowtxt mode={mode} text={text} isclicked={isclick}/>
                 </div>
