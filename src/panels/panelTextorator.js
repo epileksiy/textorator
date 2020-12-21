@@ -59,6 +59,12 @@ class Textorator extends React.Component {
                         <option value="o">𝕠𝕦𝕥𝕝𝕚𝕟𝕖</option>
                         <option value="h">𝓱𝓪𝓷𝓭𝔀𝓻𝓲𝓽𝓲𝓷𝓰</option>
                         <option value="c">ⓒⓘⓡⓒⓛⓔⓓ</option>
+                        <option value="gr">ḠṜΣϾΣ</option>
+                        <option value="a">ａｅｓｔｈｅｔｉｃ</option>
+                        <option value="i">𝙗𝙤𝙡𝙙 𝙞𝙩𝙖𝙡𝙞𝙘</option>
+                        <option value="st">ｓ☆ｔ☆ａ☆ｒ☆ｓ☆</option>
+                        <option value="b">[̲̅b][̲̅o][̲̅x][̲̅e][̲̅d]</option>
+                        <option value="1337">l337</option>
                     </Select>
                     <Windowtxt mode={mode} text={text} isclicked={isclick}/>
                 </div>
