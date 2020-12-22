@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/textorator/static/css/main.b455f6fd.chunk.css",
+    "main.css": "/textorator/static/css/main.5e9f5284.chunk.css",
     "main.js": "/textorator/static/js/main.71bda804.chunk.js",
     "main.js.map": "/textorator/static/js/main.71bda804.chunk.js.map",
     "runtime-main.js": "/textorator/static/js/runtime-main.32de8546.js",
@@ -9,19 +9,19 @@
     "static/js/2.21325376.chunk.js": "/textorator/static/js/2.21325376.chunk.js",
     "static/js/2.21325376.chunk.js.map": "/textorator/static/js/2.21325376.chunk.js.map",
     "index.html": "/textorator/index.html",
-    "precache-manifest.8f5076f4509a0499af16e9ab0ebbb036.js": "/textorator/precache-manifest.8f5076f4509a0499af16e9ab0ebbb036.js",
+    "precache-manifest.2cff9e1e27e7d203b714fb46946adbb8.js": "/textorator/precache-manifest.2cff9e1e27e7d203b714fb46946adbb8.js",
     "service-worker.js": "/textorator/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/textorator/static/css/2.2cfa1b23.chunk.css.map",
-    "static/css/main.b455f6fd.chunk.css.map": "/textorator/static/css/main.b455f6fd.chunk.css.map",
+    "static/css/main.5e9f5284.chunk.css.map": "/textorator/static/css/main.5e9f5284.chunk.css.map",
     "static/js/2.21325376.chunk.js.LICENSE.txt": "/textorator/static/js/2.21325376.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/textorator/static/media/bg.28545912.jpg",
+    "static/media/App.css": "/textorator/static/media/gif_bg.25bd6e98.png",
     "static/media/textorator.gif": "/textorator/static/media/textorator.14543a70.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.32de8546.js",
     "static/css/2.2cfa1b23.chunk.css",
     "static/js/2.21325376.chunk.js",
-    "static/css/main.b455f6fd.chunk.css",
+    "static/css/main.5e9f5284.chunk.css",
     "static/js/main.71bda804.chunk.js"
   ]
 }
