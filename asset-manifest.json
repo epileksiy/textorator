@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/textorator/static/css/main.820b3261.chunk.css",
-    "main.js": "/textorator/static/js/main.226a8000.chunk.js",
-    "main.js.map": "/textorator/static/js/main.226a8000.chunk.js.map",
+    "main.css": "/textorator/static/css/main.b455f6fd.chunk.css",
+    "main.js": "/textorator/static/js/main.71bda804.chunk.js",
+    "main.js.map": "/textorator/static/js/main.71bda804.chunk.js.map",
     "runtime-main.js": "/textorator/static/js/runtime-main.32de8546.js",
     "runtime-main.js.map": "/textorator/static/js/runtime-main.32de8546.js.map",
     "static/css/2.2cfa1b23.chunk.css": "/textorator/static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.bc493aaf.chunk.js": "/textorator/static/js/2.bc493aaf.chunk.js",
-    "static/js/2.bc493aaf.chunk.js.map": "/textorator/static/js/2.bc493aaf.chunk.js.map",
+    "static/js/2.21325376.chunk.js": "/textorator/static/js/2.21325376.chunk.js",
+    "static/js/2.21325376.chunk.js.map": "/textorator/static/js/2.21325376.chunk.js.map",
     "index.html": "/textorator/index.html",
-    "precache-manifest.72a017d2ddfa41deae078a4495ae3ad7.js": "/textorator/precache-manifest.72a017d2ddfa41deae078a4495ae3ad7.js",
+    "precache-manifest.8f5076f4509a0499af16e9ab0ebbb036.js": "/textorator/precache-manifest.8f5076f4509a0499af16e9ab0ebbb036.js",
     "service-worker.js": "/textorator/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/textorator/static/css/2.2cfa1b23.chunk.css.map",
-    "static/css/main.820b3261.chunk.css.map": "/textorator/static/css/main.820b3261.chunk.css.map",
-    "static/js/2.bc493aaf.chunk.js.LICENSE.txt": "/textorator/static/js/2.bc493aaf.chunk.js.LICENSE.txt"
+    "static/css/main.b455f6fd.chunk.css.map": "/textorator/static/css/main.b455f6fd.chunk.css.map",
+    "static/js/2.21325376.chunk.js.LICENSE.txt": "/textorator/static/js/2.21325376.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/textorator/static/media/bg.28545912.jpg",
+    "static/media/textorator.gif": "/textorator/static/media/textorator.14543a70.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.32de8546.js",
     "static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.bc493aaf.chunk.js",
-    "static/css/main.820b3261.chunk.css",
-    "static/js/main.226a8000.chunk.js"
+    "static/js/2.21325376.chunk.js",
+    "static/css/main.b455f6fd.chunk.css",
+    "static/js/main.71bda804.chunk.js"
   ]
 }
