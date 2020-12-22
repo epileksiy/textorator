@@ -61,6 +61,7 @@ class Textorator extends React.Component {
                         <option value="c">ⓒⓘⓡⓒⓛⓔⓓ</option>
                         <option value="gr">ḠṜΣϾΣ</option>
                         <option value="a">ａｅｓｔｈｅｔｉｃ</option>
+                        {/*just test*/}
                         <option value="i">𝙗𝙤𝙡𝙙 𝙞𝙩𝙖𝙡𝙞𝙘</option>
                         <option value="st">ｓ☆ｔ☆ａ☆ｒ☆ｓ☆</option>
                         <option value="b">[̲̅b][̲̅o][̲̅x][̲̅e][̲̅d]</option>
