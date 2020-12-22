@@ -1,5 +1,5 @@
 import React from 'react';
-import {Group,List,Cell,Div, Footer,Link} from "@vkontakte/vkui";
+import {Group,List,Cell,Div, Footer} from "@vkontakte/vkui";
 
 function Aboutpanel(){
     return(
@@ -25,9 +25,39 @@ function Aboutpanel(){
                     <Cell>
                         ⓒⓘⓡⓒⓛⓔⓓ
                     </Cell>
+                    <Cell>
+                        ḠṜΣϾΣ
+                    </Cell>
+                    <Cell>
+                        ａｅｓｔｈｅｔｉｃ
+                    </Cell>
+                    <Cell>
+                        𝙗𝙤𝙡𝙙 𝙞𝙩𝙖𝙡𝙞𝙘
+                    </Cell>
+                    <Cell>
+                        ｓ☆ｔ☆ａ☆ｒ☆ｓ☆
+                    </Cell>
+                    <Cell>
+                        [̲̅b][̲̅o][̲̅x][̲̅e][̲̅d]
+                    </Cell>
+                    <Cell>
+                        l337
+                    </Cell>
+                    <Cell>
+                        🅑🅤🅑🅑🅛🅔
+                    </Cell>
+                    <Cell>
+                        𝓰♡°𝙖♡°𝔂♡°
+                    </Cell>
+                    <Cell>
+                        丂卂ズㄩ尺卂
+                    </Cell>
+                    <Cell>
+                        𝐛𝐨𝐥𝐝
+                    </Cell>
                 </List>
             </Group>
-            <Footer>Создатель - <Link href="vk.com/kotcovalexey" target="_blank">epileksiy</Link></Footer>
+            <Footer>Создатель - epileksiy</Footer>
         </div>
     )
 }

@@ -66,5 +66,7 @@
     bottom: 48px;
 }
 .bta{
+    position:relative;
+    max-width: 100%;
     margin-bottom: 48px;
 }
