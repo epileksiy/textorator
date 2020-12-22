@@ -49,14 +49,14 @@
 }
 .gif{
     width: 375px;
-    background: url("http://i.yapx.ru/Fgu2J.png") center center no-repeat;
+    background: url("./img/gif_bg.png") center center no-repeat;
     background-size: 340px 90px;
 }
 .panel{
     height: 100vh;
     width: 100vw;
     background-color: white;
-    background: url("https://data.whicdn.com/images/227870020/original.jpg");
+    background: url("./img/bg.jpg");
     background-repeat: repeat;
     background-size: contain;
 

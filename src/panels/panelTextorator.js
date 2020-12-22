@@ -3,7 +3,7 @@ import {Select,Button, FormLayout,Textarea} from "@vkontakte/vkui";
 import '@vkontakte/vkui/dist/vkui.css';
 import '../App.css';
 import Windowtxt from "./WindowTxt";
-
+import gifka from '../img/textorator.gif';
 
 class Textorator extends React.Component {
     constructor(props) {
@@ -42,13 +42,13 @@ class Textorator extends React.Component {
             <div className='fix'>
             <div className='panel'>
                 <div className='up'>
-                    <div className="gif">
-                        <img src="http://i.yapx.ru/FgvLk.gif" width="375px" height="125px" alt=""/>
+                    <div className="gif" >
+                        <img src={gifka} width="375px" height="125px" alt=""/>
                     </div>
                     <FormLayout onSubmit={this.handleSubmit}>
                         <div className="textarea">
                             {/*value={this.state.value} onChange={this.handleChange}*/}
-                            <Textarea spellCheck="false" id="textarea" placeholder="Введите текст и выберите стиль."></Textarea>
+                            <Textarea spellCheck="false" id="textarea" placeholder="Введите текст и выберите стиль."/>
                         </div>
                     <div className="but">
                         <Button type="submit" size="xl" style={{backgroundColor: 'white'}} onClick={this.cClicked}>tEXtoratE</Button>
