@@ -43,7 +43,7 @@ class Textorator extends React.Component {
             <div className='panel'>
                 <div className='up'>
                     <div className="gif" >
-                        <img src={gifka} width="375px" height="125px" alt=""/>
+                        <img src={gifka} width="375px" height="125px" alt="Textorator"/>
                     </div>
                     <FormLayout onSubmit={this.handleSubmit}>
                         <div className="textarea">
