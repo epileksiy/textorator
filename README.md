@@ -12,5 +12,5 @@
 
 # VK Mini Apps: textorator
 
-## You can test it on - epileksiy.github.io/textorator
+## You can test it on - <a href="epileksiy.github.io/textorator"> здесь </a>
 
