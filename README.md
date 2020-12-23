@@ -6,7 +6,8 @@
   <h2>VK Mini Apps</h2>
 </div>
 
-#VK Mini Apps: textorator
+## This app is made for stylising text which can be used in social networks or as a nickname :) 
 
-# You can test - <a href="epileksiy.github.io/textorator"> right there </a>
-<span>For right experience tap F12 and set your screen to mobile :)</span>
+# VK Mini Apps: textorator
+# You can test it - <a href="epileksiy.github.io/textorator"> right there </a>
+## For right experience tap F12 and set your screen to mobile :)
